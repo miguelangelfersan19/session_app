@@ -1,0 +1,8 @@
+body {
+    background: rgb(22, 29, 29);
+    background: linear-gradient(131deg, rgba(22, 29, 29, 1) 23%, rgba(56, 60, 60, 1) 86%, rgba(3, 13, 13, 0.7369755091292135) 100%);
+}
+
+.logo {
+    width: 30%;
+}
